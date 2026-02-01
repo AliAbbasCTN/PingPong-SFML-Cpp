@@ -3,6 +3,12 @@
 ## Description
 A UI-based Ping Pong game developed in C++ using the SFML graphics library.
 
+## Academic Information
+- **Course:** Object-Oriented Programming (C++)
+- **Semester:** Semester II
+- **Project Type:** Academic Course Project
+- **Development Duration:** 19 days
+
 ## Technologies Used
 - C++
 - SFML (Simple and Fast Multimedia Library)
@@ -12,9 +18,6 @@ A UI-based Ping Pong game developed in C++ using the SFML graphics library.
 - Real-time paddle movement
 - Sound effects
 - Score tracking
-
-## How to Build
-Compile using a C++ compiler linked with SFML.
 
 ## Screenshots
 Screenshots are available in the `images` folder.
