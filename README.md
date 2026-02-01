@@ -22,5 +22,5 @@ A UI-based Ping Pong game developed in C++ using the SFML graphics library.
 ## Screenshots
 Screenshots are available in the `images` folder.
 ## Repository Clone Link
-## Repository Clone
+
 git clone https://github.com/AliAbbasCTN/PingPong-SFML-Cpp.git
