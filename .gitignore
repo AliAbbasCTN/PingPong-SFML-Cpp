@@ -1,0 +1,22 @@
+# Build folders
+bin/
+obj/
+build/
+
+# Compiled files
+*.exe
+*.dll
+*.o
+*.obj
+
+# Visual Studio / VS Code
+.vscode/
+*.sln
+*.vcxproj
+*.filters
+*.depend
+*.layout
+
+# OS files
+desktop.ini
+.DS_Store
